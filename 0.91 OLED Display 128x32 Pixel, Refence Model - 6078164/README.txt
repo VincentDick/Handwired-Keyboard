@@ -1,1 +1,0 @@
-0.91 OLED Display 128x32 Pixel, Refence Model by feeee23 on Thingiverse: https://www.thingiverse.com/thing:6078164
